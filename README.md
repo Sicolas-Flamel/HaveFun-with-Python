@@ -8,7 +8,7 @@
 ## 2
 [pandas 系列问题](./补0.md)
 
-[pandas 系列问题](./多个 DataFrame 写入同一个 Excel.py)
+[pandas 系列问题](./多个DataFrame写入同一个Excel.py)
 
 ## 3
 [14天净挣180.87](./1229看看经理吧.ipynb)
