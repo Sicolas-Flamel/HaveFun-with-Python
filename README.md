@@ -16,3 +16,13 @@
 ## 4
 [发邮件](./发邮件.py)
 
+## 5
+[不想让电脑动不动就锁屏？即便是有公司安全机制也可用](./fakemove.py)
+<br> 在 Anaconda Powershell Prompt 的 Python 环境中，cd 到目录，用以下代码进行打包：
+
+
+```Python
+pyinstaller --onefile fakemove.py
+
+```
+
